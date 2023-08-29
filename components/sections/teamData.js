@@ -1,7 +1,7 @@
-import Musa from '@assets/Team/Musa.jpg';
-import Varun from '@assets/Team/Varun.png';
-import Rohit from '@assets/Team/Rohit.png';
-import Dheeraj from '@assets/Team/Draj.jpeg';
+import Musa from '@assets/Team/musa.jpg';
+import Varun from '@assets/Team/varun.png';
+import Rohit from '@assets/Team/rohit.png';
+import Dheeraj from '@assets/Team/draj.jpeg';
 
 
 const teamData = [
