@@ -25,7 +25,7 @@ export const Hero = (props) => {
 
       
       <ApplyButton/>
-      <Body><a href='mailto:sponsors@engenhacks.org' style={{color: "#ffff", "textDecoration": "underline"}}>Interested in sponsoring?</a></Body>
+      <Body><a href='https://wyw9ezhbiai.typeform.com/to/GTMXHM4x' style={{color: "#ffff", "textDecoration": "underline"}}>Interested in sponsoring?</a></Body>
     </Wrapper>
   )
 }
