@@ -37,7 +37,7 @@ export const Footer = (props) => {
       <Socials>
         <Link href="https://www.instagram.com/engen.learning/?hl=en"><Instagram /></Link>
         <Link href="https://www.twitter.com/EngenHacks"><Twitter /></Link>
-        <Link href="https://www.linkedin.com/company/engenlearning"><LinkedIn /></Link>
+        <Link href="https://www.linkedin.com/company/engen-learning/mycompany/"><LinkedIn /></Link>
       </Socials>
     </Wrapper>
   );
