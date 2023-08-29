@@ -25,7 +25,7 @@ const guestData = [
   {
     id: 3,
     name: "Raghav Chaudhary",
-    role: "UC Sanata Cruz",
+    role: "UC Santa Cruz",
     image: Raghav,
     year: "",
     experience: "",
