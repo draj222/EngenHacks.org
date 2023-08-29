@@ -14,11 +14,11 @@ export const Hero = (props) => {
   return(
     <Wrapper>
       <Subtitle>
-        TBD&nbsp;&nbsp;|
+        September 2nd&nbsp;&nbsp;|
         <span
           style={{'color': 'White'}}
         >
-        &nbsp;&nbsp;California, US.
+        &nbsp;&nbsp;Cali, US + Online.
         </span>
       </Subtitle>
       <DisplayText>Engen Hacks</DisplayText>

@@ -16,7 +16,7 @@ const GuestGrid = styled('div', css({
   display: 'grid',
   gridTemplateColumns: 'repeat(auto-fit, minmax(200px, 1fr))',
   gap: '2.5rem',
-  background: 'linear-gradient(101.99deg, rgba(249, 249, 249, 0.5) 5.49%, rgba(249, 249, 249, 0.3) 100%)',
+  background: '#333333',
   maxWidth: '800px',
   boxSizing: 'border-box',
   boxShadow: '0px 4px 24px -1px rgba(0, 0, 0, 0.25)',
@@ -93,7 +93,7 @@ const GuestMember = ({ name, role, img, highSchoolYear, experience, link }) => {
 const Guest = () => {
   return (
     <Wrapper id="Guest">
-      <h2>Our Guests</h2>
+      <h1>Our Guests</h1>
       <GuestGrid>
         {guestData.map((member) => (
           <GuestMember

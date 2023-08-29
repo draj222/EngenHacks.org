@@ -1,32 +1,45 @@
-// import Musa from '../../public/img/GuestPics/musa-aqeel.jpg';
+import Marvin from '@assets/Guests/marvin.jpg';
+import Aidan from '@assets/Guests/aidan.jpeg';
+import Raghav from '@assets/Guests/raghav.png';
+import Tanish from '@assets/Guests/tanish.jpeg';
 
 const guestData = [
   {
     id: 1,
-    name: "Guest 1",
-    role: "1",
-    image: "/Guest/person-smith.jpg",
-    year: "Senior",
-    experience: "3 years",
-    link: "https://musaaqeel.com/",
+    name: "Marvin Zhang",
+    role: "Cornell University",
+    image: Marvin,
+    year: "",
+    experience: "",
+    link: "https://www.linkedin.com/in/marvin-zhang-8b1445179/",
   },
   {
     id: 2,
-    name: "Jane Smith",
-    role: "Tech Lead",
-    image: "/Guest/jane-smith.jpg",
-    year: "Junior",
-    experience: "2 years",
-    link: "https://smith.com/",
+    name: "Aidan Sunbury",
+    role: "UC Berkeley",
+    image: Aidan,
+    year: "",
+    experience: "",
+    link: "https://www.linkedin.com/in/aidan-sunbury/",
   },
   {
     id: 3,
-    name: "Mike Johnson",
-    role: "Data Scientist",
-    image: "/Guest/mike-johnson.jpg",
-    year: "Senior",
-    experience: "4 years",
-    link: "https://mike.com/",
+    name: "Raghav Chaudhary",
+    role: "UC Sanata Cruz",
+    image: Raghav,
+    year: "",
+    experience: "",
+    link: "https://www.linkedin.com/in/raghavchaudhary/",
+  },
+
+  {
+    id: 4,
+    name: "Tanish Baranwal",
+    role: "UC Berkeley",
+    image: Tanish,
+    year: "",
+    experience: "",
+    link: "https://www.linkedin.com/in/tekotan/",
   },
 ];
 

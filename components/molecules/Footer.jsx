@@ -31,11 +31,11 @@ export const Footer = (props) => {
   return(
     <Wrapper>
       <Links>
-        <Link href="https://static.mlh.io/docs/mlh-code-of-conduct.pdf">MLH Code of Conduct</Link>
+        {/* <Link href="https://static.mlh.io/docs/mlh-code-of-conduct.pdf">MLH Code of Conduct</Link> */}
         <Link href="https://github.com/EngenHacks">GitHub</Link>
       </Links>
       <Socials>
-        <Link href="https://www.instagram.com/EngenHacks"><Instagram /></Link>
+        <Link href="https://www.instagram.com/engen.learning/?hl=en"><Instagram /></Link>
         <Link href="https://www.twitter.com/EngenHacks"><Twitter /></Link>
         <Link href="https://www.linkedin.com/company/engenlearning"><LinkedIn /></Link>
       </Socials>

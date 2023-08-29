@@ -13,7 +13,7 @@ const SponsorsGrid = styled('div', css({
   display: "flex",
   flexDirection: "column",
   maxWidth: "1142px",
-  background: "linear-gradient(101.99deg, rgba(249, 249, 249, 0.5) 5.49%, rgba(249, 249, 249, 0.3) 100%)",
+  background: "#333333",
   boxSizing: "border-box",
   boxShadow: "0px 4px 24px -1px rgba(0, 0, 0, 0.25)",
   backdropFilter: "blur(20px)",
@@ -163,11 +163,11 @@ export const Sponsors = (props) => {
       <Header align="center">Our Sponsors</Header>
       <SponsorsGrid>
         <DiamondTier />
-        {/* <PlatinumTier />
+        <PlatinumTier />
         <GoldTier />
-        <SilverTier />
-        <BronzeTier />
-        <InKindTier /> */}
+        {/* <SilverTier /> */}
+        {/* <BronzeTier /> */}
+        {/* <InKindTier /> */}
       </SponsorsGrid>
     </Wrapper>
   )

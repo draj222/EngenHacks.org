@@ -43,9 +43,9 @@ const FAQ = (props) => {
           <span>
             We&#39;d be happy to help! You can send us a direct message on&nbsp; 
             <Link type={"blue"} href="https://www.instagram.com/EngenHacks/?hl=en">Instagram</Link>
-            &nbsp;or <Link type={"blue"} href="https://twitter.com/EngenHacks?lang=en">Twitter</Link>&nbsp; - @engenhacks. 
+            &nbsp;or <Link type={"blue"} href="https://discord.gg/qKSq5bJxsp">Discord</Link>&nbsp; - @engenhacks. 
             Alternatively, you can send the inquiry over to&nbsp;
-            <Link type={"blue"} href="mailto:contact@engenhacks.org">contact@engenhacks.org</Link>
+            <Link type={"blue"} href="mailto:engenhacks@gmail.com">engenhacks@gmail.com</Link>
             &nbsp;and we&#39;ll get back to you as soon as possible.
           </span>
         }
@@ -63,7 +63,7 @@ const FAQ = (props) => {
           </FAQs>
         <Body size={"large"} align={"center"}>
           Anything we missed? Ask us at {' '}
-          <Link href={"mailto:contact@engenhacks.org"} type={"blue"}>contact@engenhacks.org</Link>
+          <Link href={"mailto:engenhacks@gmail.com"} type={"blue"}>engenhacks@gmail.com</Link>
         </Body>
       </Wrapper>
     </Margin>

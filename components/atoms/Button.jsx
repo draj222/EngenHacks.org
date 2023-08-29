@@ -72,6 +72,6 @@ export const ApplyButton = (props) => {
   };
 
   return (
-    <StyledApply href="typeformlink">Apply Now →</StyledApply>
+    <StyledApply href="dev">Join Now! →</StyledApply>
   );
 };
