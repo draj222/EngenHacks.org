@@ -6,7 +6,7 @@ import teamData from './teamData';
 import { Header } from '../atoms';
 
 const Wrapper = styled('section', {
-  minHeight: '100vh',
+  minHeight: '75vh',
   width: '100%',
   textAlign: 'center',
   scrollMarginTop: '12vh',

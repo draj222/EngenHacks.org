@@ -4,7 +4,7 @@ import {styled, css} from "~stitches";
 import { sponsors } from "./sponsorList";
 
 const Wrapper = styled('section', {
-  minHeight: "100vh",
+  minHeight: "150vh",
   width: "100%",
   scrollMarginTop: "12vh",
 })

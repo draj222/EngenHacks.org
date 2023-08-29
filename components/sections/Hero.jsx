@@ -5,7 +5,7 @@ const Wrapper = styled('div', {
   display: "flex",
   paddingTop: "25vh",
   flexDirection: "column",
-  minHeight: "100vh",
+  minHeight: "75vh",
   width: "100%",
   zIndex: "10",
 })
