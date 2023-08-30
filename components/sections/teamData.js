@@ -1,4 +1,4 @@
-import Musa from '@assets/Team/musa.jpg';
+import Musa from '@assets/Team/Musa.PNG';
 import Varun from '@assets/Team/varun.png';
 import Rohit from '@assets/Team/rohit.png';
 import Dheeraj from '@assets/Team/draj.JPEG';
