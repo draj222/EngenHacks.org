@@ -2,6 +2,7 @@ import Marvin from '@assets/Guests/marvin.jpg';
 import Aidan from '@assets/Guests/aidan.jpeg';
 import Raghav from '@assets/Guests/raghav.png';
 import Tanish from '@assets/Guests/tanish.jpeg';
+import Sid from '@assets/Guests/sid.jpeg';
 
 const guestData = [
   {
@@ -40,6 +41,16 @@ const guestData = [
     year: "",
     experience: "",
     link: "https://www.linkedin.com/in/tekotan/",
+  },
+
+  {
+    id: 5,
+    name: "Siddhartha Javvaji",
+    role: "Stanford University",
+    image: Sid,
+    year: "",
+    experience: "",
+    link: "https://www.linkedin.com/in/siddhartha-javvaji-23b81617a/",
   },
 ];
 
